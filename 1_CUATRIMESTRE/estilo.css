@@ -1,0 +1,71 @@
+img {
+    height: 200px;
+    width: 200px;
+   }
+
+#medidas{
+    position: absolute; top: 100px; left:200px;
+}
+
+#marcas{
+    position: absolute; top: 100px; left: 500px;
+}
+
+#prendas{
+    position: absolute; top: 100px; left:800px;
+}
+
+#probarme{
+    position: absolute; top: 100px; left:1100px;
+}
+
+#menuMedidas{
+    position: absolute; top: 350px; left:200px;
+}
+
+#menuPrendas{
+    position: absolute; top: 350px; left:800px;
+}
+
+#opcionMedidas {
+    position: absolute; top: 160px; left:230px;
+}
+
+#opcionMarcas {
+    position: absolute; top: 160px; left:540px;
+
+}
+#opcionPrendas {
+    position: absolute; top: 160px; left:830px;
+}
+
+#opcionComoQueda {
+    position: absolute; top: 110px; left:1140px;
+    text-align: center;
+}
+
+body{
+  background-color: rgb(225, 174, 174);
+}
+
+h1{ 
+    text-align: center;
+    font-size:60px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(194, 40, 78);
+}
+
+p{ 
+    font-size:40px;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(194, 40, 78);
+}
+
+u1{ 
+    font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(159, 7, 45);
+    position: absolute; top: 200px; left:200px;
+}
+
