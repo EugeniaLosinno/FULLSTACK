@@ -1,0 +1,9 @@
+h1, p{
+    color:white
+}
+
+html{
+    background-color: rgb(151, 151, 224);
+    display: flex;
+    justify-content: space-between;
+}

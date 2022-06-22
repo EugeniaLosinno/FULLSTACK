@@ -1,0 +1,14 @@
+h1, p{
+    color:white
+}
+
+html{
+    background-color: rgb(151, 151, 224);
+}    
+
+body{
+    display: flex;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items: center;
+}
