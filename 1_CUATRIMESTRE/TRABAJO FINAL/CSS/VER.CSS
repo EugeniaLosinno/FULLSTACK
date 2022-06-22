@@ -1,0 +1,79 @@
+  .contenedorEncabezadoPrincipal{
+    height: 30vh;
+    background-color: rgba(58, 150, 221, 0.749);
+    background-image: url(../IMAGENES/ArgentinaP.jpg);
+    background-repeat: no-repeat;
+    background-size:over;
+    position: relative;   
+  }
+  
+  .contenedorEncabezado{
+    height: 15vh;
+    background-color: rgba(58, 150, 221, 0.749);
+    background-image: url(../IMAGENES/ArgentinaS.jpg);
+    background-repeat: no-repeat;
+    background-size:over;
+    position: relative;
+       
+  }
+  
+  header{
+    position: fixed;
+    z-index:100;
+    width: 100%;
+    padding-bottom:20% ;
+  }
+  
+  .menuNavegacion{
+    display: flex; 
+    justify-content:space-around;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgba(0, 0, 0, 0.688);
+    text-align: center;
+    font-size: large;
+   
+  }
+  
+  .contenedorCentro{
+    background-color: rgba(58, 150, 221, 0.334);
+  }
+  
+  
+  
+  
+  h1{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgba(0, 0, 0, 0.688);
+    text-align: center;
+    font-size: xx-large;
+  }
+  
+  p, .listasQueHacer{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgba(0, 0, 0, 0.688);
+    text-align: center;
+    font-style: italic;
+    font-weight: bold;
+    font-size: x-large;
+    text-indent:5%;
+  }
+  
+  .contenedorFotos{
+    background-color:rgba(58, 150, 221);
+    
+    
+  }
+  
+  .esteros, .palmar{
+   
+    margin-left: 2%;
+    margin-right: 2%;
+  
+  }
+  
+  
+  
+  table{
+    image-orientation: from-image;
+    text-align: center;
+  }
